@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Suvratha/static/css/main.073c9b0a.css",
+    "main.js": "/Suvratha/static/js/main.807993bc.js",
+    "static/js/787.a5a00b74.chunk.js": "/Suvratha/static/js/787.a5a00b74.chunk.js",
+    "static/media/suvratha.mp4": "/Suvratha/static/media/suvratha.b2e306788b9eaf23c551.mp4",
+    "index.html": "/Suvratha/index.html",
+    "main.073c9b0a.css.map": "/Suvratha/static/css/main.073c9b0a.css.map",
+    "main.807993bc.js.map": "/Suvratha/static/js/main.807993bc.js.map",
+    "787.a5a00b74.chunk.js.map": "/Suvratha/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.807993bc.js"
+  ]
+}
